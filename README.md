@@ -48,6 +48,6 @@ One-screen readout: hazard scan → trusted-rows summary → prompt-change sensi
 
 ## Future Work
 
-- Ask whether demo traffic is tagged upstream — makes this hazard class a join, not a heuristic
+- Ask whether demo traffic is tagged upstream  makes this hazard class a join, not a heuristic
 - Sessions split by user, so "runs" become "people"
-- Untangle the Aug 7 review-policy change from the prompt change — currently confounded
+- Untangle the Aug 7 review-policy change from the prompt change currently confounded
