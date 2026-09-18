@@ -1,4 +1,4 @@
-# 📊 SignalDesk Weekly Check
+#  SignalDesk Weekly Check
 
 > **A trust-first readout for messy AI-workflow usage data — quarantines rows it can't trust before reporting any headline number, then shows the answer without the quarantine.**
 
